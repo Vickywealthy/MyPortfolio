@@ -17,13 +17,14 @@ html
 }
 
 body.dark {
-    --main-color:#05ef53;
-    --shadow-black-100:0 5px 15px #048a2c;
-    --black-900:rgb(0, 0, 0);
-    --black-400:#030303;
-    --black-100:#fcfcfc;
-    --white:rgb(255, 254, 254);
-    --black-alpha-100:rgb(255, 255, 255);
+    --main-color:#06b36b;
+    --shadow-black-100:0 5px 15px rgba(0,0,0,0.2);
+    --black-900:#000;
+    --black-400:#646f87;
+    --black-100:#f2ebff;
+    --white:rgb(255, 255, 255);
+    --black-alpha-100:rgba(0,0,0,.05);
+}
 }
 
 
