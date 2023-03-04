@@ -22,7 +22,7 @@ body.dark {
     --black-900:#000;
     --black-400:#646f87;
     --black-100:#f2ebff;
-    --white:rgb(255, 255, 255);
+    --white:#f2ebff;
     --black-alpha-100:rgba(0,0,0,.05);
 }
 
