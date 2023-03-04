@@ -7,9 +7,9 @@ html
 }
 :root
 {
-    --main-color:#05ef53;
+    --main-color:#68EF05;
     --shadow-black-100:0 5px 15px #048a2c;
-    --black-900:rgb(252, 250, 250);
+    --black-900:rgb(255, 255, 255);
     --black-400:#ffffff;
     --black-100:#070707;
     --white:rgb(0, 0, 0);
