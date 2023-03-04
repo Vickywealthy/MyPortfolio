@@ -89,7 +89,8 @@ img
 .btn-1:hover
 {
     color: var(--white);
-    background-color: #7406b3;
+    background-color: #05ef53;
+    --shadow-black-100:0 5px 15px #048a2c;
 }
 
 .btn-2
