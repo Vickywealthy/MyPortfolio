@@ -468,7 +468,7 @@ img
     width: 100%;
     height: 9px;
     border-radius: 5px;
-    background-color: rgba(243, 26, 243, 0.11);
+    background-color:#048a2c9f;
     position: relative;
 }
 .skill-item .skill-bar .bar-inner .progress-line
