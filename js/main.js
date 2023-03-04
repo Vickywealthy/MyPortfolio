@@ -160,9 +160,9 @@
                 
 // Typing Animation
 var typed =new Typed(".ty",{
-    strings:["UI/UX DESIGNER","GRAPHIC DESIGNER","COPYWRITTER","LOGO CREATOR","CONTENT COPYWRITTER","EMAIL & ARTICLE COPYWRITTING".],
-    typeSpeed:90,
-    BackSpeed:50,
+    strings:["UI/UX DESIGNER.","GRAPHIC DESIGNER","COPYWRITTER","LOGO CREATOR","CONTENT COPYWRITTER","EMAIL&ARTICLE COPYWRITTING",],
+    typeSpeed:100,
+    BackSpeed:60,
     loop:true
 
 })
