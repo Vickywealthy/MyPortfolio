@@ -90,7 +90,6 @@ img
 {
     color: var(--white);
     background-color: #05ef53;
-    --shadow-black-100:0 5px 15px #048a2c;
 }
 
 .btn-2
@@ -299,7 +298,8 @@ img
     top: 53%;
     left: 50px;
     transform: translateY(-53%);
-    border: 1px solid #7406b3;
+    border: 1px solid #05ef53;
+    --shadow-black-100:0 5px 15px #048a2c;
     border-radius: 50px;
 }
 .header-social li a 
