@@ -976,14 +976,14 @@ img
     flex: 0 0 50%;
     max-width: 50%;
 }
-.contact-section .input-group
+.contact-section .fs-frm-input-group
 {
     margin: 0 0 25px;
     border-radius: 30px;
     background-color: var(--black-100);
     box-shadow: var(--shadow-black-100);
 }
-.contact-section .input-group .input-control
+.contact-section .fs-frm-input-group .input-control
 {
     height: 45px;
     display: block;
@@ -997,13 +997,13 @@ img
     transition: all 0.3s ease;
     color: var(--black-400);
 }
-.contact-section .input-group textarea.input-control
+.contact-section .fs-frm-input-group textarea.input-control
 {
     height: 180px;
     padding-top: 15px;
     resize: none;
 }
-.contact-section .input-group .input-control:focus
+.contact-section .fs-frm-input-group .input-control:focus
 {
     border: 1px solid var(--main-color);
 }
