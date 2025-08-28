@@ -333,9 +333,10 @@ img
 .home-section .home-text h5
 {
     font-size: 30px;
+  line-height: 10px;
     font-weight: 600;
     letter-spacing: 4px;
-    margin-top: 50px;
+    margin-top: 15px;
     color: var(--main-color);
 }
 .home-section .home-text h1
