@@ -330,6 +330,14 @@ img
     letter-spacing: 4px;
     color: var(--main-color);
 }
+.home-section .home-text h5
+{
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: 4px;
+    margin-top: 15px;
+    color: var(--main-color);
+}
 .home-section .home-text h1
 {
     font-size: 50px;
